@@ -1,6 +1,2 @@
-age = int(input("Enter your age: "))
-
-if age>19:
-    print("Yes")
-else:
-    print("No")
+value = 4+2, 6
+print(value)
